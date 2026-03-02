@@ -1,0 +1,5 @@
+{"test": "heartbeat", "name": "Wasgood", "age_years": 18, "heart_rate": 72, "range_low": 70, "range_high": 100, "status": "normal", "timestamp": "2026-03-02 05:31:25.784712"}
+{"test": "heartbeat", "name": "Wasgood", "age_years": 18, "heart_rate": 105, "range_low": 70, "range_high": 100, "status": "abnormal", "timestamp": "2026-03-02 05:31:38.957270"}
+{"test": "bmi", "name": "Wasgood", "height_cm": 172, "weight_lbs": 159, "bmi": 24, "category": "Normal", "timestamp": "2026-03-02 05:31:51.988516"}
+{"test": "bmi", "name": "Wasgood", "height_cm": 172, "weight_lbs": 170, "bmi": 26, "category": "Overweight", "timestamp": "2026-03-02 05:32:00.533783"}
+{"test": "iq", "name": "", "score": 1, "total": 10, "estimated_iq": 85, "timestamp": "2026-03-02 05:32:09.699148"}
